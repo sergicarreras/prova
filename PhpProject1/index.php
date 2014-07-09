@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
            echo "Hola S2Q";
+           echo "aixo es la segona prova"
         ?>
     </body>
 </html>
